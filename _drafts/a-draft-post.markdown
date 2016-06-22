@@ -6,6 +6,8 @@ categories: jekyll update
 ---
 Normally this draft post will not be served by jekyll as it is unpublished, but if you want to get it served and see on your site you have have to run jekyll as ```bundle exec jekyll serve --drafts``` instead of doing ```bundle exec jekyll serve```.
 
+If there is any error while jekyll building your site, then you should run `bundle exec jekyll build --trace` for more information about the error.
+
 * ##### Below given content is just copied from a post from folder `_posts` folder.
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
