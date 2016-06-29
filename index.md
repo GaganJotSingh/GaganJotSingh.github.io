@@ -15,7 +15,7 @@ Besides being interested in solving algorithmic challenges and problems in the a
 * Cryptography
 * Compiler Construction
 
-When I have time and feel to learn new things, concepts and technologies for syncing myself up with current happenings and development in the world, I do the following:
+When I have time and feel to learn new things, concepts and technologies for syncing myself up with current happenings and developments in the world, I do the following:
 
 * Online courses
 * My Reading list

@@ -6,7 +6,26 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "/res/favicons/favicon-3.ico" | prepend: site.baseurl }}">
+
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <!-- For offline testing -->
+  <!-- link rel="stylesheet" href="{{ "/res/bootstrap-3.3.6-dist/css/bootstrap.css" | prepend: site.baseurl }}" -->
+
+  <!-- Don’t modify the Bootstrap core – you’re much better off overriding the existing styles. -->
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- Bootstrap JavaScript and custom JavaScript must go below jQuery to function! -->
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <!-- For offline testing -->
+  <!-- script src="/res/js/jquery.min.js"></script -->
+
+  <!-- Latest compiled JavaScript -->
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <!-- For offline testing -->
+  <!-- script src="/res/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script -->
 </head>
