@@ -143,13 +143,13 @@
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));  // Earlier 20%
+    width:         calc(25% - (#{$spacing-unit} / 2));  // Earlier 20%
 }
 
 .footer-col-3 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));  // Earlier 35%
+    width:         calc(30% - (#{$spacing-unit} / 2));  // Earlier 35%
 }
 
 @include media-query($on-laptop) {
