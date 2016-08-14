@@ -4,6 +4,12 @@ title: Resume
 description: Resume of Gaganjot Singh
 ---
 
+One year of experience in Java.
+A small experience in C, C++, Ruby, JavaScript, NodeJS.
+Competitive Programmer.
+Good knowledge of Data Structures and Algorithms.
+A prolific programmer with a passion of reseach.
+
 Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
 
 **Experience in Web Technology:**
@@ -22,7 +28,7 @@ Implemented custom applications for content and knowledge management. Have also 
 			<div class="col-md-6">
 				<ul class="list-group">
 					<li class="list-group-item active"><h4 style="margin-top:10.5px; margin-bottom:10.5px"><strong>Programming</strong></h4></li>
-					<li class="list-group-item">JAVA</li>
+					<li class="list-group-item">Java</li>
 					<li class="list-group-item">Ruby</li>
 					<li class="list-group-item">JavaScript</li>
 					<li class="list-group-item">HTML & CSS</li>
@@ -31,10 +37,9 @@ Implemented custom applications for content and knowledge management. Have also 
 			</div>
 			<div class="col-md-6">
 				<ul class="list-group">
-					<li class="list-group-item active"><h4 style="margin-top:10.5px; margin-bottom:10.5px"><strong>Specialties</strong></h4></li>
-					<li class="list-group-item">.Net Web Technologies</li>
-					<li class="list-group-item">SharePoint 2013</li>
-					<li class="list-group-item">Sencha Ext Js</li>
+					<li class="list-group-item active"><h4 style="margin-top:10.5px; margin-bottom:10.5px"><strong>Others</strong></h4></li>
+					<li class="list-group-item">Test Driven Development</li>
+					<li class="list-group-item">Version Control (Git / SVN)</li>
 				</ul>
 			</div>
 		</div>
@@ -49,13 +54,13 @@ Implemented custom applications for content and knowledge management. Have also 
 	<div class="col-md-9">
 		<ul style="padding-left: 40px; margin-bottom: 10.5px">
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Master of Science (M.Sc.) - Informatics <a href="/coursesMasters/" title="Relevant courses undertaken during Masters"><span class="glyphicon glyphicon-book"></span></a></h4>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Master of Science (M.Sc.) - Informatics <a href="/study/coursesUndertaken/#during_masters" title="Relevant courses undertaken during Masters"><span class="glyphicon glyphicon-book"></span></a></h4>
 				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Major in Algorithms and Scientific Computing</h5>
-				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Thesis title: <a href="/study/masterThesis">Transactional support in publish/subscribe middleware</a></h5>
+				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Thesis title: <a href="/study/masterThesis">Transactional support in Publish/Subscribe Middleware</a></h5>
 				<p style="margin-bottom:10.5px">2013 - 2016 . <a href="https://www.tum.de/">Technical University of Munich, Germany</a></p>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Bachelor of Technology (B.Tech.) - Computer Science and Engineering <a href="/coursesBachelors/" title="Relevant courses undertaken during Bachelors"><span class="glyphicon glyphicon-book"></span></a></h4>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Bachelor of Technology (B.Tech.) - Computer Science and Engineering <a href="/study/coursesUndertaken/#during_bachelors" title="Relevant courses undertaken during Bachelors"><span class="glyphicon glyphicon-book"></span></a></h4>
 				<p style="margin-bottom:10.5px">2008 - 2012 . <a href="http://www.nitp.ac.in/">National Institute of Technology Patna, India</a></p>
 			</li>
 		</ul>
@@ -70,19 +75,16 @@ Implemented custom applications for content and knowledge management. Have also 
 	<div class="col-md-9">
 		<ul style="padding-left: 40px; margin-bottom: 10.5px">
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Supercomputing</h4>
-				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Present</h5>
-				<p style="margin-bottom:10.5px">Working as Application Developer</p>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Efficient Programming of Multicore Systems and Supercomputers</h4>
+				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Master Lab Course . Multicore processors and HPC systems . OpenMP . MPI</h5>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Data Mining</h4>
-				<h5 style="margin-top:10.5px; margin-bottom:10.5px">March 2010 - January 2013</h5>
-				<p style="margin-bottom:10.5px">Worked as Web Developer</p>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Data Mining Lab Course</h4>
+				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Master Lab Course . Descriptive data mining . Predictive data mining</h5>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Haptics Lab</h4>
-				<h5 style="margin-top:10.5px; margin-bottom:10.5px">May 2009 - March 2010</h5>
-				<p style="margin-bottom:10.5px">Worked as Web Developer with MIS team</p>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Computational Haptics Laboratory</h4>
+				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Master Lab Course . OpenGL . Chai3D Framework</h5>
 			</li>
 		</ul>
 	</div>
