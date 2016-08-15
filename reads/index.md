@@ -3,14 +3,17 @@ layout: page
 title: Reads
 permalink: /reads/
 ---
-### There is nothing new here OR this page is under construction.
 
-Just a sample of another page that you could include for some purpose in the primary navigation.
+[//]: # (### Syncing myself with outer knowledge.)
 
-This could be a great place to list your own projects. But to get you started, here's some handy links:
+#### Text
+- [Hacker News](https://news.ycombinator.com/news)
+- [Andrej Karpathy's blog](http://karpathy.github.io/)
+- [Schneier on Security](https://www.schneier.com/)
+- [Krebs on Security](http://krebsonsecurity.com/)
 
-- [List of Jekyll-powered websites](https://github.com/jekyll/jekyll/wiki/Sites)
-- [Octopress, a Jekyll based blog framework](https://github.com/octopress/)
-- [Jekyll documentation](http://jekyllrb.com/)
-- [Jekyll source on GitHub](https://github.com/jekyll/jekyll)
-- [Available plugins](http://jekyllrb.com/docs/plugins/#available_plugins)
+#### News
+- [Quartz](http://qz.com/)
+
+#### Videos
+- [TED Talks](https://www.ted.com/)
