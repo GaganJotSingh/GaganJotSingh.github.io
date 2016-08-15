@@ -178,7 +178,7 @@ Implemented custom applications for content and knowledge management. Have also 
 </section>
 
 <!-- Contact for full resume -->
-<a id="full_resume" href="mailto:singhgagan.tum.informatics@gmail.com?subject=Resume Request" class="btn btn-info btn-lg" title="Work experience, Projects, GPAs: Contact via email for detailed resume." style="position: fixed; top: 90%; left: 100%; margin-top: -100px; margin-left: -200px; color: red; background-color: aliceblue;">
+<a id="full_resume" href="mailto:{{ site.email }}?subject=Resume Request" class="btn btn-info btn-lg" title="Work experience, Projects, GPAs: Contact via email for detailed resume." style="position: fixed; top: 90%; left: 100%; margin-top: -100px; margin-left: -200px; color: red; background-color: aliceblue;">
   <span id="resume_envelope" class="glyphicon glyphicon-envelope"></span> Full Resume
 </a>
 

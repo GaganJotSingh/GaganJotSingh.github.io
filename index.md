@@ -10,7 +10,7 @@ title: About
 Hello. My name is Gaganjot Singh. I'm a computer science graduate student living in Munich with a passion for art and technology.
 
 I recently finished Masters in Informatics at the [Technical University of Munich](https://www.tum.de/).
-I wrote my [Master's Thesis](/study/masterThesis/) in the area of Distributed Systems.
+I wrote my [Master's Thesis]({{ site.url_master_thesis }}) in the area of Distributed Systems.
 My major area of Master's Study is Algorithms and Scientific Computing.
 Besides being interested in solving algorithmic challenges and problems in the area of distributed computing, I'm also interested in the following areas:
 
@@ -20,16 +20,16 @@ Besides being interested in solving algorithmic challenges and problems in the a
 
 When I have time and feel to learn new things, concepts and technologies for syncing myself up with current happenings and developments in the world, I do the following:
 
-* Online courses
-* My Reading list
+* [Online courses]({{ site.url_courses_online }})
+* [My Reading list]({{ site.url_my_reading_list }})
 
-Little more information about me can be found through [My Resume &rarr;](/about/resume/).
+Little more information about me can be found through [My Resume &rarr;]({{ site.url_resume }}).
 
 Besides the nerdy stuff, I also enjoy the following:
 
 * Playing Badminton
 
-#### I'm currently **available** for hire starting in September 2016. My detailed resume is available upon [request](mailto:singhgagan.tum.informatics@gmail.com?subject=Resume Request).
+#### I'm currently **available** for hire starting in September 2016. My detailed resume is available upon [request](mailto:{{ site.email }}?subject=Resume Request).
 
 <!--div class="message" style="font-size:11px">
   The views expressed on this blog are solely personal and have no binding, relation or influence with my current and/or past employers.

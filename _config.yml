@@ -23,3 +23,15 @@ home_username:  home
 
 # Build settings
 markdown: kramdown
+
+# Site URLs
+url_my_reading_list: "/reads/"
+url_my_blog: "/blog/"
+url_my_mini_posts: "/miniPosts/"
+url_resume: "/about/resume/"
+url_master_thesis: "/study/masterThesis/"
+url_idp: "/study/idp/"
+url_courses_undertaken: "/study/coursesUndertaken/"
+url_courses_bachelors: "/study/coursesUndertaken/#during_bachelors"
+url_courses_masters: "/study/coursesUndertaken/#during_masters"
+url_courses_online: "/study/coursesUndertaken/#moocs"
