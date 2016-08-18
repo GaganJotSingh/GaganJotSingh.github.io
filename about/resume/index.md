@@ -46,13 +46,13 @@ A prolific programmer with a passion of reseach.
 	<div class="col-md-9">
 		<ul style="padding-left: 40px; margin-bottom: 10.5px">
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Master of Science (M.Sc.) - Informatics <a href="/study/coursesUndertaken/#during_masters" title="Relevant courses undertaken during Masters"><span class="glyphicon glyphicon-book"></span></a></h4>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Master of Science (M.Sc.) - Informatics <a href="{{ site.url_courses_masters }}" title="Relevant courses undertaken during Masters"><span class="glyphicon glyphicon-book"></span></a></h4>
 				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Major in Algorithms and Scientific Computing</h5>
 				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Thesis title: <a href="{{ site.url_master_thesis }}">Transactional support in Publish/Subscribe Middleware</a></h5>
 				<p style="margin-bottom:10.5px">2013 - 2016 . <a href="https://www.tum.de/">Technical University of Munich, Germany</a></p>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Bachelor of Technology (B.Tech.) - Computer Science and Engineering <a href="/study/coursesUndertaken/#during_bachelors" title="Relevant courses undertaken during Bachelors"><span class="glyphicon glyphicon-book"></span></a></h4>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Bachelor of Technology (B.Tech.) - Computer Science and Engineering <a href="{{ site.url_courses_bachelors }}" title="Relevant courses undertaken during Bachelors"><span class="glyphicon glyphicon-book"></span></a></h4>
 				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Amongst top 5 in the batch</h5>
 				<p style="margin-bottom:10.5px">2008 - 2012 . <a href="http://www.nitp.ac.in/">National Institute of Technology Patna, India</a></p>
 			</li>

@@ -2,6 +2,7 @@
 layout: page
 title: Courses Undertaken and MOOCS
 description: Courses undertaken during Bachelor and Master and Online MOOCS.
+permalink: /courses/
 ---
 
 <a href="#moocs">
