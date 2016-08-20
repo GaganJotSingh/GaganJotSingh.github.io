@@ -8,6 +8,7 @@ title: About
 <img src="/res/portrait.jpg" width="35%" align="right" style="padding: 1px; border:thin solid black; border-radius: 20px; margin: 0px 0px 16px 24px;" />
 
 Hello. My name is Gaganjot Singh. I'm a computer science graduate student living in Munich with a passion for art and technology.
+"Simplicity in programming and rigour in research" is my guiding principle.
 
 I recently finished Masters in Informatics at the [Technical University of Munich](https://www.tum.de/).
 I wrote my [Master's Thesis]({{ site.url_master_thesis }}) in the area of Distributed Systems.

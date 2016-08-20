@@ -68,19 +68,19 @@ A prolific programmer with a passion of reseach.
 	<div class="col-md-9">
 		<ul style="padding-left: 40px; margin-bottom: 10.5px">
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Master's Thesis</h4>
+				<h4 class="click_apar" style="margin-top:10.5px; margin-bottom:10.5px" title="Click to expand descriptions">Master's Thesis <span class="glyphicon glyphicon-triangle-top apar_up"></span></h4>
 				<h5 style="margin-bottom:10.5px; margin-bottom:10.5px">Nov 2015 - Aug 2016 . <a href="{{ site.url_master_thesis }}">Transactional support in Publish/Subscribe Middleware</a></h5>
-				<h5 style="margin-top:10.5px">Formalized, designed and implemented (in Java) distributed transaction service in <a href="http://www.msrg.utoronto.ca/projects/padres/">PADRES</a>, a distributed content-based publish/subscribe middleware. Publish/subscribe transactions featured two-phase commit, rollback capability and concurrency.</h5>
+				<h5 id="desc_master_thesis" style="margin-top:10.5px; display: none">Formalized, designed and implemented (in Java) distributed transaction service in <a href="http://www.msrg.utoronto.ca/projects/padres/">PADRES</a>, a distributed content-based publish/subscribe middleware. Publish/subscribe transactions featured two-phase commit, rollback capability and concurrency.</h5>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Inter-Disciplinary Project</h4>
+				<h4 class="click_apar" style="margin-top:10.5px; margin-bottom:10.5px" title="Click to expand descriptions">Inter-Disciplinary Project <span class="glyphicon glyphicon-triangle-top apar_up"></span></h4>
 				<h5 style="margin-bottom:10.5px; margin-bottom:10.5px">Aug 2014 – Dec 2014 . <a href="{{ site.url_idp }}">SIMULINK auto-code generation for BeagleBoneBlack/Xenomai target</a></h5>
-				<h5 style="margin-top:10.5px">Development of a tool chain similar to <a href="https://www.rtai.org/?About\_RTAI-Lab">RTAI-Lab</a>, but targeting <a href="https://xenomai.org/">Xenomai</a> real-time development framework.</h5>
+				<h5 id="desc_idp" style="margin-top:10.5px; display: none">Development of a tool chain similar to <a href="https://www.rtai.org/?About\_RTAI-Lab">RTAI-Lab</a>, but targeting <a href="https://xenomai.org/">Xenomai</a> real-time development framework.</h5>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Bachelor Summer Internship</h4>
+				<h4 class="click_apar" style="margin-top:10.5px; margin-bottom:10.5px" title="Click to expand descriptions">Bachelor Summer Internship <span class="glyphicon glyphicon-triangle-top apar_up"></span></h4>
 				<h5 style="margin-bottom:10.5px; margin-bottom:10.5px">June 2011 – Aug 2011 . <a href="{{ site.url_si2011 }}">Anonymization of Network Trace Data for the Homework Project</a></h5>
-				<h5 style="margin-top:10.5px">Implemented (in C) anonymization algorithms for the network trace data collected in the <a href="http://homenetworks.ac.uk/">Homework</a> project. Protecting data's sensitive information from the potential attackers while maintaining critical correlations present in the data and thus preserving the associated research value.</h5>
+				<h5 id="desc_si2011" style="margin-top:10.5px; display: none">Implemented (in C) anonymization algorithms for the network trace data collected in the <a href="http://homenetworks.ac.uk/">Homework</a> project. Protecting data's sensitive information from the potential attackers while maintaining critical correlations present in the data and thus preserving the associated research value.</h5>
 			</li>
 		</ul>
 	</div>
@@ -161,6 +161,9 @@ A prolific programmer with a passion of reseach.
 				  </a>
 				</h5>
 			</li>
+			<li>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">See full list <a href="{{ site.url_courses_online }}">here</a>.</h4>
+			</li>
 		</ul>
 	</div>
 </section>
@@ -181,17 +184,31 @@ A prolific programmer with a passion of reseach.
 </section -->
 
 <!-- Contact for full resume -->
-<a id="full_resume" href="mailto:{{ site.email }}?subject=Resume Request" class="btn btn-info btn-lg" title="Work experience, Projects, GPAs: Contact via email for detailed resume." style="position: fixed; top: 90%; left: 100%; margin-top: -100px; margin-left: -200px; color: red; background-color: aliceblue;">
+<a id="full_resume" href="mailto:{{ site.email }}?subject=Resume Request" class="btn btn-info btn-lg" title="Work experience details, Projects, GPAs, etc.: Contact via email for detailed resume." style="position: fixed; top: 90%; left: 100%; margin-top: -100px; margin-left: -200px; color: red; background-color: aliceblue;">
   <span id="resume_envelope" class="glyphicon glyphicon-envelope"></span> Full Resume
 </a>
 
 <script>
 $(document).ready(function(){
-     $("#full_resume").mouseover(function(){
-         $("#resume_envelope").addClass("glyphicon-send").removeClass("glyphicon-envelope");
-     });
-     $("#full_resume").mouseout(function(){
-         $("#resume_envelope").addClass("glyphicon-envelope").removeClass("glyphicon-send");
-     });
+	$("#full_resume").mouseover(function(){
+		$("#resume_envelope").addClass("glyphicon-send").removeClass("glyphicon-envelope");
+	});
+	$("#full_resume").mouseout(function(){
+		$("#resume_envelope").addClass("glyphicon-envelope").removeClass("glyphicon-send");
+	});
+});
+
+$(document).ready(function() {
+	$('.click_apar').click(function() {
+		$('#desc_master_thesis').slideToggle("fast");
+		$('#desc_idp').slideToggle("fast");
+		$('#desc_si2011').slideToggle("fast");
+	});
+	$('.click_apar').mouseover(function() {
+		$('.apar_up').addClass("glyphicon-triangle-bottom").removeClass("glyphicon-triangle-top");
+	});
+	$('.click_apar').mouseout(function() {
+		$('.apar_up').addClass("glyphicon-triangle-top").removeClass("glyphicon-triangle-bottom");
+	});
 });
 </script>
