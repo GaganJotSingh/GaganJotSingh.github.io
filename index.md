@@ -28,9 +28,10 @@ Little more information about me can be found through [My Resume &rarr;]({{ site
 
 Besides the nerdy stuff, I also enjoy the following:
 
-* Playing Badminton
+* Playing Badminton, Chess
+* Listening to Music
 
-#### I'm currently **available** for hire starting in September 2016. My detailed resume is available upon [request](mailto:{{ site.email }}?subject=Resume Request).
+#### I'm currently **available** for hire as a software developer starting in September 2016. My detailed resume is available upon [request](mailto:{{ site.email }}?subject=Resume Request).
 
 <!--div class="message" style="font-size:11px">
   The views expressed on this blog are solely personal and have no binding, relation or influence with my current and/or past employers.
