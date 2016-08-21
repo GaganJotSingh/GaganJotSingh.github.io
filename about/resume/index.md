@@ -162,7 +162,21 @@ A prolific programmer with a passion of reseach.
 				</h5>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">See full list <a href="{{ site.url_courses_online }}">here</a>.</h4>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">See full list and certificates <a href="{{ site.url_courses_online }}">here</a>.</h4>
+			</li>
+		</ul>
+	</div>
+</section>
+<hr style="margin-top:21px; margin-bottom:21px" />
+<!-- Online Presence -->
+<section class="row">
+	<header class="col-md-3">
+		<h3 style="text-transform:uppercase;color:gray; margin-top:21px; margin-bottom:10.5px">Online Presence</h3>
+	</header>
+	<div class="col-md-9">
+		<ul style="padding-left: 40px; margin-bottom: 10.5px">
+			<li>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px"><img src="/res/images/hackerrank_icon.png" style="margin: 0px 10px 0px 0px;" />HackerRank://<a href="https://www.hackerrank.com/gagan_theroyal" target="_blank"><code>gagan_theroyal</code></a></h4>
 			</li>
 		</ul>
 	</div>

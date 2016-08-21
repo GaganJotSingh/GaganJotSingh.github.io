@@ -23,59 +23,52 @@ permalink: /courses/
 	<div class="col-md-12">
 		<ul style="padding-left: 40px; margin-bottom: 10.5px">
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Algorithms, Part I by Princeton University
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Algorithms &middot; Princeton University &middot; Coursera
 					<span><h5>Instructors - Robert Sedgewick and Kevin Wayne.</h5></span>
 				</h4>
-				<h5 style="margin-top:10.5px; margin-bottom:10.5px">
-					<span class="glyphicon glyphicon-calendar"></span>January 22, 2016 - March 12, 2016 
-					<span class="glyphicon glyphicon-menu-right"></span>Coursera 
-					<a>
-						<button type="button" title="This course provides no certificate" class="btn btn-default btn-sm">
-					  	<span class="glyphicon glyphicon-education"></span>
-						</button>
-					</a>
-					<a href="https://www.coursera.org/course/algs4partI">
-						<button type="button" title="Course Homepage" class="btn btn-default btn-sm">
-						<span class="glyphicon glyphicon-info-sign"></span>
-						</button>
-					</a>
-				</h5>
+			</li>
+			<ul style="padding-left: 20px; margin-bottom: 10.5px">
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/course/algs4partI" target="_blank">Part I</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;" title="This course provides no certificate"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;January 22, 2016 - March 12, 2016&nbsp;<!-- a href="https://www.coursera.org/course/algs4partI"><span class="glyphicon glyphicon-info-sign" style="color: orange;" title="Course Homepage"></span></a --></h5>
+				</li>
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/course/algs4partII" target="_blank">Part II</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;" title="This course provides no certificate"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;March 16, 2016 - April 30, 2016</h5>
+				</li>
+			</ul>
+			<li>
+				<h4 style="margin-top:10.5px; margin-bottom:5px">Java Programming: Object-Oriented Design of Data Structures Specialization &middot; University of California, San Diego &middot; Coursera &nbsp; <a href="https://www.coursera.org/specializations/java-object-oriented" title="Specialization Homepage" target="_blank"><span class="glyphicon glyphicon-info-sign" style="color: orange;"></span></a></h4>
+			<ul style="padding-left: 20px; margin-bottom: 10.5px">
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/object-oriented-java" title="Course Homepage" target="_blank">Object Oriented Programming in Java</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/7NKVA6WRPB9G" title="Course certificate" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;January 04, 2016 - February 22, 2016</h5>
+				</li>
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/data-structures-optimizing-performance" title="Course Homepage" target="_blank">Data Structures Made Easy</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/DRZXVV4UG4K5" title="Course certificate" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;February 15, 2016 - March 28, 2016</h5>
+				</li>
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/advanced-data-structures" title="Course Homepage" target="_blank">Advanced Data Structures in Java</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/XCFTURQSE4CP" title="Course certificate" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;March 28, 2016 - May 09, 2016</h5>
+				</li>
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/cs-tech-interview" title="Course Homepage" target="_blank">Mastering the Software Engineering Interview</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/G7H49PVSB8AA" title="Course certificate" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;May 02, 2016 - June 06, 2016</h5>
+				</li>
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/intermediate-programming-capstone" title="Course Homepage" target="_blank">Capstone: Analyzing (Social) Network Data</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" title="Course certificate: On it's way" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;September 12, 2016 - October 31, 2016</h5>
+				</li>
+			</ul>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Algorithms, Part II by Princeton University
-					<span><h5>Instructors - Robert Sedgewick and Kevin Wayne.</h5></span>
-				</h4>
-				<h5 style="margin-top:10.5px; margin-bottom:10.5px">
-					<span class="glyphicon glyphicon-calendar"></span>January 22, 2016 - March 12, 2016 
-					<span class="glyphicon glyphicon-menu-right"></span>Coursera 
-					<a>
-						<button type="button" title="This course provides no certificate" class="btn btn-default btn-sm">
-					  	<span class="glyphicon glyphicon-education"></span>
-						</button>
-					</a>
-					<a href="https://www.coursera.org/course/algs4partI">
-						<button type="button" title="Course Homepage" class="btn btn-default btn-sm">
-						<span class="glyphicon glyphicon-info-sign"></span>
-						</button>
-					</a>
-				</h5>
+				<h4 style="margin-top:10.5px; margin-bottom:5px">Data Structures and Algorithms Specialization &middot; University of California, San Diego and Higher School of Economics &middot; Coursera &nbsp; <a href="https://www.coursera.org/specializations/data-structures-algorithms" title="Specialization Homepage" target="_blank"><span class="glyphicon glyphicon-info-sign" style="color: orange;"></span></a></h4>
+			<ul style="padding-left: 20px; margin-bottom: 10.5px">
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/algorithmic-toolbox" title="Course Homepage" target="_blank">Algorithmic Toolbox</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/SXXQFP8XLP3E" title="Course certificate" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;February 22, 2016 - April 04, 2016</h5>
+				</li>
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/data-structures" title="Course Homepage" target="_blank">Data Structures</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" title="Course certificate: On it's way" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;August 01, 2016 - September 12, 2016</h5>
+				</li>
+			</ul>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:5px">Specialization DS and Algorithms by University of California</h4>
-				<h5>
-					<span class="glyphicon glyphicon-calendar"></span>January 22, 2016 - March 12, 2016 
-					<span class="glyphicon glyphicon-menu-right"></span>Coursera 
-					<a>
-						<button type="button" title="This course provides no certificate" class="btn btn-default btn-sm">
-					  	<span class="glyphicon glyphicon-education"></span>
-						</button>
-					</a>
-					<a href="https://www.coursera.org/course/algs4partI">
-						<button type="button" title="Course Homepage" class="btn btn-default btn-sm">
-						<span class="glyphicon glyphicon-info-sign"></span>
-						</button>
-					</a>
-				</h5>
+				<h4 style="margin-top:10.5px; margin-bottom:5px">Learning How to Learn: Powerful mental tools to help you master tough subjects &middot; University of California, San Diego &middot; Coursera &nbsp; <a href="https://www.coursera.org/learn/learning-how-to-learn/" title="Course Homepage" target="_blank"><span class="glyphicon glyphicon-info-sign" style="color: orange;"></span></a></h4>
+				<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/6N9XW7RLCB7K" title="Course certificate" target="_blank" style="border-left: 1px solid white; margin-left: 20px;"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;February 01, 2016 - March 06, 2016</h5>
 			</li>
 		</ul>
 	</div>
