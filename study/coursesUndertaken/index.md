@@ -32,7 +32,7 @@ permalink: /courses/
 					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/course/algs4partI" target="_blank">Part I</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;" title="This course provides no certificate"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;January 22, 2016 - March 12, 2016&nbsp;<!-- a href="https://www.coursera.org/course/algs4partI"><span class="glyphicon glyphicon-info-sign" style="color: orange;" title="Course Homepage"></span></a --></h5>
 				</li>
 				<li>
-					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/course/algs4partII" target="_blank">Part II</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;" title="This course provides no certificate"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;March 16, 2016 - April 30, 2016</h5>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/course/algs4partII" target="_blank">Part II</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;" title="This course provides no certificate"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;March 16, 2016 - May 27, 2016</h5>
 				</li>
 			</ul>
 			<li>

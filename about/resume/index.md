@@ -117,52 +117,16 @@ A prolific programmer with a passion of reseach.
 	<div class="col-md-9">
 		<ul style="padding-left: 40px; margin-bottom: 10.5px">
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">January 22, 2016 - March 12, 2016: Algorithms, Part I by Princeton University on Coursera.</h4>
-				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Instructors - Robert Sedgewick and Kevin Wayne.
-				  <a>
-				    <button type="button" title="This course provides no certificate" class="btn btn-default btn-sm">
-				      <span class="glyphicon glyphicon-education"></span>
-				    </button>
-				  </a>
-				  <a href="https://www.coursera.org/course/algs4partI">
-				    <button type="button" title="Course Homepage" class="btn btn-default btn-sm">
-				      <span class="glyphicon glyphicon-info-sign"></span>
-				    </button>
-				  </a>
-				</h5>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Algorithms, Part I <a href="https://www.coursera.org/course/algs4partI" target="_blank">&rarr;</a> & II <a href="https://www.coursera.org/course/algs4partII" target="_blank">&rarr;</a> &middot; Princeton University &middot; Coursera</h4>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">March 16, 2016 - May 27, 2016: Algorithms, Part II by Princeton University on Coursera.</h4>
-				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Instructors - Robert Sedgewick and Kevin Wayne.
-				  <a>
-				    <button type="button" title="This course provides no certificate" class="btn btn-default btn-sm">
-				      <span class="glyphicon glyphicon-education"></span>
-				    </button>
-				  </a>
-				  <a href="https://www.coursera.org/course/algs4partII">
-				    <button type="button" title="Course Homepage" class="btn btn-default btn-sm">
-				      <span class="glyphicon glyphicon-info-sign"></span>
-				    </button>
-				  </a>
-				</h5>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Java Programming: Object-Oriented Design of Data Structures Specialization <a href="https://www.coursera.org/specializations/java-object-oriented" target="_blank">&rarr;</a> &middot; University of California, San Diego &middot; Coursera</h4>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Algorithmic Toolbox by University of California, San Diego & Higher School of Economics on Coursera. Certificate earned on April 1, 2016.</h4>
-				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Instructors.
-				  <a href="https://www.coursera.org/account/accomplishments/certificate/SXXQFP8XLP3E">
-				    <button type="button" title="Verify Certificate" class="btn btn-default btn-sm">
-				      <span class="glyphicon glyphicon-education"></span>
-				    </button>
-				  </a>
-				  <a href="https://www.coursera.org/">
-				    <button type="button" title="Course Homepage" class="btn btn-default btn-sm">
-				      <span class="glyphicon glyphicon-info-sign"></span>
-				    </button>
-				  </a>
-				</h5>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Algorithmic Toolbox <a href="https://www.coursera.org/learn/algorithmic-toolbox" target="_blank">&rarr;</a> &middot; University of California, San Diego and Higher School of Economics &middot; Coursera</h4>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px">See full list and certificates <a href="{{ site.url_courses_online }}">here</a>.</h4>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">See full list and certificates <a href="{{ site.url_courses_online }}">here &rarr;</a></h4>
 			</li>
 		</ul>
 	</div>
