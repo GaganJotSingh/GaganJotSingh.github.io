@@ -81,19 +81,19 @@ permalink: /courses/
 <section class="row">
 	<div class="col-md-12">
 		<ul style="padding-left: 40px; margin-bottom: 10.5px">
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Security Engineering</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">User Modeling and Recommender Systems</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Efficient Algorithms Data Structures - I</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Cryptography</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Protein Prediction - I for Computer Scientists</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Compiler Construction</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Distributed Systems</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Distributed Applications</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Security Engineering</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">User Modeling and Recommender Systems</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Database Systems on Modern CPU Architectures</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Data Mining</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Patterns in Software Engineering</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Social Computing</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Data Mining</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Database Systems on Modern CPU Architectures</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Protein Prediction - I for Computer Scientists</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Cryptography</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Project Organisation and Management in Software Engineering</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Compiler Construction</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Efficient Algorithms Data Structures - I</h4></li>
 		</ul>
 	</div>
 </section>
@@ -106,23 +106,23 @@ permalink: /courses/
 	<div class="col-md-12">
 		<ul style="padding-left: 40px; margin-bottom: 10.5px">
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Object Oriented Analysis and Design</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Numerical methods and Computational Techniques</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Software Engineering</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Operating Systems</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Systems Programming</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Network Security</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Computer Architecture</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Database Systems</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Distributed Database</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Computer Networks</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Information Security</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Network Security</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Microprocessors and its Applications</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Discrete Mathematical Structure and Graph Theory</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Numerical methods and Computational Techniques</h4></li>
+			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Computational Geometry</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Web Applications Design and Development</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Principles of Programming Languages</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Formal Languages and Automata Theory</h4></li>
 			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Artificial Intelligence</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Distributed Database</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Computational Geometry</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Information Security</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Software Engineering</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Operating Systems</h4></li>
-			<li><h4 style="margin-top:10.5px; margin-bottom:10.5px">Computer Networks</h4></li>
 		</ul>
 	</div>
 </section>
