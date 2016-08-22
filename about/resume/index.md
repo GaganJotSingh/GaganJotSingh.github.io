@@ -49,12 +49,12 @@ A prolific programmer with a passion of reseach.
 				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Master of Science (M.Sc.) - Informatics <a href="{{ site.url_courses_masters }}" title="Relevant courses undertaken during Masters"><span class="glyphicon glyphicon-book"></span></a></h4>
 				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Major in Algorithms and Scientific Computing</h5>
 				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Thesis title: <a href="{{ site.url_master_thesis }}">Transactional support in Publish/Subscribe Middleware</a></h5>
-				<p style="margin-bottom:10.5px">2013 - 2016 . <a href="https://www.tum.de/">Technical University of Munich, Germany</a></p>
+				<p style="margin-bottom:10.5px">2013 - 2016 . <a href="https://www.tum.de/" target="_blank">Technical University of Munich, Germany</a></p>
 			</li>
 			<li>
 				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Bachelor of Technology (B.Tech.) - Computer Science and Engineering <a href="{{ site.url_courses_bachelors }}" title="Relevant courses undertaken during Bachelors"><span class="glyphicon glyphicon-book"></span></a></h4>
 				<h5 style="margin-top:10.5px; margin-bottom:10.5px">Amongst top 5 in the batch</h5>
-				<p style="margin-bottom:10.5px">2008 - 2012 . <a href="http://www.nitp.ac.in/">National Institute of Technology Patna, India</a></p>
+				<p style="margin-bottom:10.5px">2008 - 2012 . <a href="http://www.nitp.ac.in/" target="_blank">National Institute of Technology Patna, India</a></p>
 			</li>
 		</ul>
 	</div>
@@ -70,17 +70,17 @@ A prolific programmer with a passion of reseach.
 			<li>
 				<h4 class="click_apar" style="margin-top:10.5px; margin-bottom:10.5px" title="Click to expand descriptions">Master's Thesis <span class="glyphicon glyphicon-triangle-top apar_up"></span></h4>
 				<h5 style="margin-bottom:10.5px; margin-bottom:10.5px">Nov 2015 - Aug 2016 . <a href="{{ site.url_master_thesis }}">Transactional support in Publish/Subscribe Middleware</a></h5>
-				<h5 id="desc_master_thesis" style="margin-top:10.5px; display: none">Formalized, designed and implemented (in Java) distributed transaction service in <a href="http://www.msrg.utoronto.ca/projects/padres/">PADRES</a>, a distributed content-based publish/subscribe middleware. Publish/subscribe transactions featured two-phase commit, rollback capability and concurrency.</h5>
+				<h5 id="desc_master_thesis" style="margin-top:10.5px; display: none">Formalized, designed and implemented (in Java) distributed transaction service in <a href="http://www.msrg.utoronto.ca/projects/padres/" target="_blank">PADRES</a>, a distributed content-based publish/subscribe middleware. Publish/subscribe transactions featured two-phase commit, rollback capability and concurrency.</h5>
 			</li>
 			<li>
 				<h4 class="click_apar" style="margin-top:10.5px; margin-bottom:10.5px" title="Click to expand descriptions">Inter-Disciplinary Project <span class="glyphicon glyphicon-triangle-top apar_up"></span></h4>
 				<h5 style="margin-bottom:10.5px; margin-bottom:10.5px">Aug 2014 – Dec 2014 . <a href="{{ site.url_idp }}">SIMULINK auto-code generation for BeagleBoneBlack/Xenomai target</a></h5>
-				<h5 id="desc_idp" style="margin-top:10.5px; display: none">Development of a tool chain similar to <a href="https://www.rtai.org/?About\_RTAI-Lab">RTAI-Lab</a>, but targeting <a href="https://xenomai.org/">Xenomai</a> real-time development framework.</h5>
+				<h5 id="desc_idp" style="margin-top:10.5px; display: none">Development of a tool chain similar to <a href="https://www.rtai.org/?About\_RTAI-Lab" target="_blank">RTAI-Lab</a>, but targeting <a href="https://xenomai.org/" target="_blank">Xenomai</a> real-time development framework.</h5>
 			</li>
 			<li>
 				<h4 class="click_apar" style="margin-top:10.5px; margin-bottom:10.5px" title="Click to expand descriptions">Bachelor Summer Internship <span class="glyphicon glyphicon-triangle-top apar_up"></span></h4>
 				<h5 style="margin-bottom:10.5px; margin-bottom:10.5px">June 2011 – Aug 2011 . <a href="{{ site.url_si2011 }}">Anonymization of Network Trace Data for the Homework Project</a></h5>
-				<h5 id="desc_si2011" style="margin-top:10.5px; display: none">Implemented (in C) anonymization algorithms for the network trace data collected in the <a href="http://homenetworks.ac.uk/">Homework</a> project. Protecting data's sensitive information from the potential attackers while maintaining critical correlations present in the data and thus preserving the associated research value.</h5>
+				<h5 id="desc_si2011" style="margin-top:10.5px; display: none">Implemented (in C) anonymization algorithms for the network trace data collected in the <a href="http://homenetworks.ac.uk/" target="_blank">Homework</a> project. Protecting data's sensitive information from the potential attackers while maintaining critical correlations present in the data and thus preserving the associated research value.</h5>
 			</li>
 		</ul>
 	</div>
@@ -176,7 +176,7 @@ A prolific programmer with a passion of reseach.
 	<div class="col-md-9">
 		<ul style="padding-left: 40px; margin-bottom: 10.5px">
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:10.5px"><img src="/res/images/hackerrank_icon.png" style="margin: 0px 10px 0px 0px;" />HackerRank://<a href="https://www.hackerrank.com/gagan_theroyal" target="_blank"><code>gagan_theroyal</code></a></h4>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px"><img src="/res/images/hackerrank_icon.png" style="margin: 0px 10px 0px 0px;" />HackerRank://<a href="https://www.hackerrank.com/gagan_theroyal" target="_blank" title="Visit my profile at HackerRank."><code>gagan_theroyal</code></a></h4>
 			</li>
 		</ul>
 	</div>
