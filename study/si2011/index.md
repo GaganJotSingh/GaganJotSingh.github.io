@@ -6,13 +6,13 @@ description: Summer Internship duing Bachelors
 
 ### Anonymization of Network Trace Data for the Homework Project
 
-**Supervisor:** [Prof. Joe Sventek](https://www.cs.uoregon.edu/People/Faculty/Joe_Sventek.php)
+**Supervisor:** [Prof. Joe Sventek](https://www.cs.uoregon.edu/People/Faculty/Joe_Sventek.php){:target="_blank"}
 
-**Advisor:** [Mr. Alexandros Koliousis](http://www.doc.ic.ac.uk/~akolious/)
+**Advisor:** [Mr. Alexandros Koliousis](http://www.doc.ic.ac.uk/~akolious/){:target="_blank"}
 
 **About:**
 
-[Homework](http://homenetworks.ac.uk/) project studied the use of computer network in the home and investigated future networking.
+[Homework](http://homenetworks.ac.uk/){:target="_blank"} project studied the use of computer network in the home and investigated future networking.
 Based on the use and the needs of the user, it led to a fundamental re-invention of the protocols, models and architectures of the domestic setting.
 For research purposes, home network trace data was collected.
 The project was a research collaboration between the Universities of Nottingham and Glasgow, Imperial College London and Georgia Institute of Technology with industrial partners Microsoft Research (Cambridge) and BT.

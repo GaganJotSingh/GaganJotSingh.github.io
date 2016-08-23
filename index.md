@@ -10,7 +10,7 @@ title: About
 Hello. My name is Gaganjot Singh. I'm a computer science graduate student living in Munich with a passion for art and technology.
 "Simplicity in programming and rigour in research" is my guiding principle.
 
-I recently finished Masters in Informatics at the [Technical University of Munich](https://www.tum.de/).
+I recently finished Masters in Informatics at the [Technical University of Munich](https://www.tum.de/){:target="_blank"}.
 I wrote my [Master's Thesis]({{ site.url_master_thesis }}) in the area of Distributed Systems.
 My major area of Master's Study is Algorithms and Scientific Computing.
 Besides being interested in solving algorithmic challenges and problems in the area of distributed computing, I'm also interested in the following areas:

@@ -6,11 +6,11 @@ description: Master's Thesis of Gaganjot Singh at Technical University of Munich
 
 ### Transactional support in Publish/Subscribe Middleware
 
-**At:** [Chair of Business Information Systems at Technische Universität München (TUM)](https://www.i13.in.tum.de/)
+**At:** [Chair of Business Information Systems at Technische Universität München (TUM)](https://www.i13.in.tum.de/){:target="_blank"}
 
-**Supervisor:** [Prof. Dr. rer. pol. Hans-Arno Jacobsen](https://www.i13.in.tum.de/index.php?id=17)
+**Supervisor:** [Prof. Dr. rer. pol. Hans-Arno Jacobsen](https://www.i13.in.tum.de/index.php?id=17){:target="_blank"}
 
-**Advisor:** [M.Sc. Martin Jergler](https://www.i13.in.tum.de/index.php?id=23)
+**Advisor:** [M.Sc. Martin Jergler](https://www.i13.in.tum.de/index.php?id=23){:target="_blank"}
 
 
 **Abstract:**
