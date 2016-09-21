@@ -28,4 +28,6 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <!-- For offline testing -->
   <!-- script src="/res/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script -->
+
+  {% if jekyll.environment == 'production' %}{% include analytics.html %}{% endif %}
 </head>

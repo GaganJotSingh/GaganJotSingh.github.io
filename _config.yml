@@ -36,3 +36,6 @@ url_courses_undertaken: "/courses/"
 url_courses_bachelors: "/courses/#during_bachelors"
 url_courses_masters: "/courses/#during_masters"
 url_courses_online: "/courses/#moocs"
+
+# Google services
+google_analytics: UA-84529288-1
