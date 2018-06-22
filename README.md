@@ -14,3 +14,9 @@ This will update the gems required by your site using the files Gemfile and Gemf
 
 # Common
 * The site is hosted by default at http://localhost:4000 until there are some changes in the running command via the params.
+
+# Initiate Jekyll site
+* To create a new jekyll site follow: https://jekyllrb.com/docs/quickstart/#options-for-creating-a-new-site-with-jekyll
+* E.g. If you already have a repo cloned to local which is not yet a jekyll site then to make that repo into a site, go to that repo from cmd and run this command:
+´jekyll new . --force´
+This will also run ´bundle install´ which installs the gems required by the site.
