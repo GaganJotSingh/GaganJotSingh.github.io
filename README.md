@@ -3,7 +3,8 @@
 * Clone the repo in local system
 * Go to the repo path in cmd and run below command: ´bundle update && bundle install´
 This will update the gems required by your site using the files Gemfile and Gemfile.lock
-* Host site locally by running the file "serve.bat" in cmd as: ´serve.bat´
+* Host site locally by running the file "serve.bat" in cmd as: ´serve.bat´ OR ´.\serve.bat´
+  - Use Windows CMD or PowerShell for running this, as Git shell doesn't run this correctly.
 
 # Build and run on Linux
 * Get started here: https://jekyllrb.com/docs/quickstart/
