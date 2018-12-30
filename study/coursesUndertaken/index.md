@@ -15,7 +15,7 @@ permalink: /courses/
 	<button type="button" class="btn btn-danger">Bachelors Courses</button>
 </a>
 
-<hr style="margin-top:21px; margin-bottom:21px" />
+<hr class="horizontal-separator" />
 
 <!-- Online Courses -->
 <h3 id = "moocs" style="text-transform:uppercase;color:gray; margin-top:21px; margin-bottom:10.5px"><a href="#" style="color: #5CB85C; margin-right: 5px;"><span class="glyphicon glyphicon-triangle-top"></span></a>Online Courses</h3>
@@ -74,7 +74,7 @@ permalink: /courses/
 	</div>
 </section>
 
-<hr style="margin-top:21px; margin-bottom:21px" />
+<hr class="horizontal-separator" />
 
 <!-- Masters Courses -->
 <h3 id = "during_masters" style="text-transform:uppercase;color:gray; margin-top:21px; margin-bottom:10.5px"><a href="#" style="color: #f0ad4e; margin-right: 5px;"><span class="glyphicon glyphicon-triangle-top"></span></a>During Masters</h3>
@@ -98,7 +98,7 @@ permalink: /courses/
 	</div>
 </section>
 
-<hr style="margin-top:21px; margin-bottom:21px" />
+<hr class="horizontal-separator" />
 
 <!-- Bachelor Courses -->
 <h3 id = "during_bachelors" style="text-transform:uppercase;color:gray; margin-top:21px; margin-bottom:10.5px"><a href="#" style="color: #d9534f; margin-right: 5px;"><span class="glyphicon glyphicon-triangle-top"></span></a>During Bachelors</h3>
