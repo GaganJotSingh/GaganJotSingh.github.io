@@ -87,8 +87,20 @@ permalink: /courses/
 			</ul>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:5px">Learning How to Learn: Powerful mental tools to help you master tough subjects &middot; University of California, San Diego &middot; Coursera &nbsp; <a href="https://www.coursera.org/learn/learning-how-to-learn/" title="Course Homepage" target="_blank"><span class="glyphicon glyphicon-info-sign" style="color: orange;"></span></a></h4>
-				<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/6N9XW7RLCB7K" title="Course certificate" target="_blank" style="border-left: 1px solid white; margin-left: 20px;"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;February 01, 2016 - March 06, 2016</h5>
+				<h4 style="margin-top:10.5px; margin-bottom:5px">Java Programming and Software Engineering Fundamentals Specialization &middot; Duke University &middot; Coursera &nbsp; <a href="https://www.coursera.org/specializations/java-programming" title="Specialization Homepage" target="_blank"><span class="glyphicon glyphicon-info-sign" style="color: orange;"></span></a></h4>
+			<ul style="padding-left: 20px; margin-bottom: 10.5px">
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/duke-programming-web" title="Course Homepage" target="_blank">Programming Foundations with JavaScript, HTML and CSS</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/LPMSYFUYC9RD" title="Course certificate" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;January 20, 2016 - February 17, 2016</h5>
+				</li>
+			</ul>
+			</li>
+			<li>
+				<h4 style="margin-top:10.5px; margin-bottom:5px">Learning How to Learn: Powerful mental tools to help you master tough subjects &middot; McMaster University and University of California, San Diego &middot; Coursera &nbsp;</h4>
+			<ul style="padding-left: 20px; margin-bottom: 10.5px">
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/learning-how-to-learn/" title="Course Homepage" target="_blank">Learning how to Learn</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/6N9XW7RLCB7K" title="Course certificate" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;February 01, 2016 - March 06, 2016</h5>
+				</li>
+			</ul>
 			</li>
 		</ul>
 	</div>
