@@ -4,11 +4,11 @@ title: Resume
 description: Resume of Gaganjot Singh
 ---
 
-One year of programming experience in Java.
-A small experience in C, C++, Ruby, JavaScript, NodeJS.
+Current working programming language is mainly Java.
+A small experience in Ruby, JavaScript, NodeJS, C, C++.
 Competitive Programmer.
 Good knowledge of Data Structures and Algorithms.
-A prolific programmer with a passion of reseach.
+A prolific programmer with a passion of research.
 
 <!-- Skills -->
 <section class="row">
@@ -20,11 +20,12 @@ A prolific programmer with a passion of reseach.
 			<div class="col-md-6">
 				<ul class="list-group">
 					<li class="list-group-item active"><h4 style="margin-top:10.5px; margin-bottom:10.5px"><strong>Programming</strong></h4></li>
-					<li class="list-group-item">Java</li>
+					<li class="list-group-item">Java (OSGi framework)</li>
 					<li class="list-group-item">Ruby</li>
 					<li class="list-group-item">JavaScript</li>
 					<li class="list-group-item">HTML & CSS</li>
 					<li class="list-group-item">C++</li>
+					<li class="list-group-item">MySQL</li>
 				</ul>
 			</div>
 			<div class="col-md-6">
@@ -32,6 +33,11 @@ A prolific programmer with a passion of reseach.
 					<li class="list-group-item active"><h4 style="margin-top:10.5px; margin-bottom:10.5px"><strong>Others</strong></h4></li>
 					<li class="list-group-item">Test Driven Development</li>
 					<li class="list-group-item">Version Control (Git / SVN)</li>
+					<li class="list-group-item">Jenkins CI</li>
+					<li class="list-group-item">Logstash, Elastic Search</li>
+					<li class="list-group-item">Web UI and App testing (Selenium, Appium)</li>
+					<li class="list-group-item">FitNesse testing</li>
+					<li class="list-group-item">Apache Tomcat, Felix</li>
 				</ul>
 			</div>
 		</div>
