@@ -5,7 +5,7 @@ title: About
 
 <!--img src="/res/portrait.jpg" style="max-width: 35%; max-height: 35%;" align="right" /-->
 
-<img src="/res/portrait.jpg" width="35%" align="right" style="padding: 1px; border:thin solid black; border-radius: 20px; margin: 0px 0px 16px 24px;" />
+<img src="/res/portrait2.jpg" width="35%" align="right" style="padding: 1px; border:thin solid black; border-radius: 20px; margin: 0px 0px 16px 24px;" />
 
 A backend software engineer living in Munich with a passion for art and technology.
 "Simplicity in programming and rigour in research" is my guiding principle.
