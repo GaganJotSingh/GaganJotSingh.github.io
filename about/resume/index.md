@@ -151,6 +151,9 @@ A prolific programmer with a passion of research.
 			<li>
 				<h4 style="margin-top:10.5px; margin-bottom:10.5px"><img src="/res/images/xing_icon.png" style="margin: 0px 10px 0px 0px; width: 42px; height: 46px;" />Xing://<a href="https://www.xing.com/profile/Gaganjot_Singh" target="_blank" title="Visit my profile at Xing."><code>Gaganjot_Singh</code></a></h4>
 			</li>
+			<li>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px"><img src="/res/images/linkedin_icon.png" style="margin: 0px 10px 0px 0px; width: 42px; height: 46px;" />LinkedIn://<a href="https://www.linkedin.com/in/gaganjot-singh-7477072b/" target="_blank" title="Visit my profile at LinkedIn."><code>gaganjot-singh-7477072b</code></a></h4>
+			</li>
 		</ul>
 	</div>
 </section>
