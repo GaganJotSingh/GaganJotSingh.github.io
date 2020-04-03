@@ -29,12 +29,32 @@ permalink: /courses/
 			</li>
 			<ul style="padding-left: 20px; margin-bottom: 10.5px">
 				<li>
-					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/course/algs4partI" target="_blank">Part I</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;" title="This course provides no certificate"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;January 22, 2016 - March 12, 2016&nbsp;<!-- a href="https://www.coursera.org/course/algs4partI"><span class="glyphicon glyphicon-info-sign" style="color: orange;" title="Course Homepage"></span></a --></h5>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/algorithms-part1" target="_blank">Part I</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;" title="This course provides no certificate"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;January 22, 2016 - March 12, 2016&nbsp;<!-- a href="https://www.coursera.org/course/algs4partI"><span class="glyphicon glyphicon-info-sign" style="color: orange;" title="Course Homepage"></span></a --></h5>
 				</li>
 				<li>
-					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/course/algs4partII" target="_blank">Part II</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;" title="This course provides no certificate"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;March 16, 2016 - May 27, 2016</h5>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/algorithms-part2" target="_blank">Part II</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;" title="This course provides no certificate"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;March 16, 2016 - May 27, 2016</h5>
 				</li>
 			</ul>
+			<li>
+				<h4 style="margin-top:10.5px; margin-bottom:5px">Cisco Networking Basics Specialization &middot; Cisco Networking Academy &middot; <br> Coursera &nbsp; <a href="https://www.coursera.org/specializations/networking-basics" title="Specialization Homepage" target="_blank"><span class="glyphicon glyphicon-info-sign" style="color: orange;"></span></a></h4>
+			<ul style="padding-left: 20px; margin-bottom: 10.5px">
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/internet-connection-how-to-get-online" title="Course Homepage" target="_blank">Internet Connection: How to Get Online?</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/URLT93BB6HBF" title="Course certificate" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;October 23, 2017 - November 20, 2017</h5>
+				</li>
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/network-protocols-architecture" title="Course Homepage" target="_blank">Network Protocols and Architecture</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/2RGHLGSPPCAT" title="Course certificate" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;June 22, 2019 - July 20, 2019</h5>
+				</li>
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/data-communication-network-services" title="Course Homepage" target="_blank">Data Communications and Network Services</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" href="" title="Course certificate" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;March 09, 2020 - April 06, 2020</h5>
+				</li>
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/home-networking-basics" title="Course Homepage" target="_blank">Home Networking Basics</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" title="Course certificate: On it's way" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;2020</h5>
+				</li>
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/cisco-networking-introduction" title="Course Homepage" target="_blank">Introduction to Cisco Networking</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" title="Course certificate: On it's way" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;2020</h5>
+				</li>
+			</ul>
+			</li>
 			<li>
 				<h4 style="margin-top:10.5px; margin-bottom:5px">Java Programming: Object-Oriented Design of Data Structures Specialization &middot; University of California, San Diego &middot; Coursera &nbsp; <a href="https://www.coursera.org/specializations/java-object-oriented" title="Specialization Homepage" target="_blank"><span class="glyphicon glyphicon-info-sign" style="color: orange;"></span></a></h4>
 			<ul style="padding-left: 20px; margin-bottom: 10.5px">
@@ -62,13 +82,25 @@ permalink: /courses/
 					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/algorithmic-toolbox" title="Course Homepage" target="_blank">Algorithmic Toolbox</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/SXXQFP8XLP3E" title="Course certificate" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;February 22, 2016 - April 04, 2016</h5>
 				</li>
 				<li>
-					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/data-structures" title="Course Homepage" target="_blank">Data Structures</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" title="Course certificate: On it's way" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;August 01, 2016 - September 12, 2016</h5>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/data-structures" title="Course Homepage" target="_blank">Data Structures</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" title="Course certificate: On it's way" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: grey;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;2020</h5>
 				</li>
 			</ul>
 			</li>
 			<li>
-				<h4 style="margin-top:10.5px; margin-bottom:5px">Learning How to Learn: Powerful mental tools to help you master tough subjects &middot; University of California, San Diego &middot; Coursera &nbsp; <a href="https://www.coursera.org/learn/learning-how-to-learn/" title="Course Homepage" target="_blank"><span class="glyphicon glyphicon-info-sign" style="color: orange;"></span></a></h4>
-				<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/6N9XW7RLCB7K" title="Course certificate" target="_blank" style="border-left: 1px solid white; margin-left: 20px;"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;February 01, 2016 - March 06, 2016</h5>
+				<h4 style="margin-top:10.5px; margin-bottom:5px">Java Programming and Software Engineering Fundamentals Specialization &middot; Duke University &middot; Coursera &nbsp; <a href="https://www.coursera.org/specializations/java-programming" title="Specialization Homepage" target="_blank"><span class="glyphicon glyphicon-info-sign" style="color: orange;"></span></a></h4>
+			<ul style="padding-left: 20px; margin-bottom: 10.5px">
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/duke-programming-web" title="Course Homepage" target="_blank">Programming Foundations with JavaScript, HTML and CSS</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/LPMSYFUYC9RD" title="Course certificate" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;January 20, 2016 - February 17, 2016</h5>
+				</li>
+			</ul>
+			</li>
+			<li>
+				<h4 style="margin-top:10.5px; margin-bottom:5px">Learning How to Learn: Powerful mental tools to help you master tough subjects &middot; McMaster University and University of California, San Diego &middot; Coursera &nbsp;</h4>
+			<ul style="padding-left: 20px; margin-bottom: 10.5px">
+				<li>
+					<h5 style="margin-top:10.5px; margin-bottom:10.5px"><a href="https://www.coursera.org/learn/learning-how-to-learn/" title="Course Homepage" target="_blank">Learning how to Learn</a>&nbsp;&nbsp;&nbsp;<a class="vertical-separators" href="https://www.coursera.org/account/accomplishments/certificate/6N9XW7RLCB7K" title="Course certificate" target="_blank"><span class="glyphicon glyphicon-education vertical-separators-margins" style="color: green;"></span></a>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-calendar" style="color: brown;"></span>&nbsp;February 01, 2016 - March 06, 2016</h5>
+				</li>
+			</ul>
 			</li>
 		</ul>
 	</div>
