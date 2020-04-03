@@ -19,7 +19,13 @@
             {% include icon-home.html username=site.home_username %}
           </li>
           {% endif %}
-          
+
+          {% if site.xing_username %}
+          <li>
+            {% include icon-xing.html username=site.xing_username %}
+          </li>
+          {% endif %}
+
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
