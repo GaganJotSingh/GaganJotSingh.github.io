@@ -132,6 +132,9 @@ A prolific programmer with a passion of research.
 				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Algorithmic Toolbox <a href="https://www.coursera.org/learn/algorithmic-toolbox" target="_blank">&rarr;</a> &middot; University of California, San Diego and Higher School of Economics &middot; Coursera</h4>
 			</li>
 			<li>
+				<h4 style="margin-top:10.5px; margin-bottom:10.5px">Cisco Networking Basics Specialization <a href="https://www.coursera.org/specializations/networking-basics" target="_blank">&rarr;</a> &middot; Cisco Networking Academy &middot; Coursera</h4>
+			</li>
+			<li>
 				<h4 style="margin-top:10.5px; margin-bottom:10.5px">See full list and certificates <a href="{{ site.url_courses_online }}">here &rarr;</a></h4>
 			</li>
 		</ul>
