@@ -9,6 +9,7 @@ title: About
 
 A backend software engineer living in Munich with a passion for art and technology.
 "Simplicity in programming and rigour in research" is my guiding principle.
+First Principles thinker.
 
 I did Masters in Computer Science (Informatics, in German <span>&#9786;</span>) from the [Technical University of Munich, Germany](https://www.tum.de/){:target="_blank"} with a major in the area of "Algorithms and Scientific Computing".
 My [Master's Thesis]({{ site.url_master_thesis }}) lies at the intersection of Distributed Systems and Algorithms.
