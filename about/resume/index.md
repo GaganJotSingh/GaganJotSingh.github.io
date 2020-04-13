@@ -4,8 +4,8 @@ title: Resume
 description: Resume of Gaganjot Singh
 ---
 
-Current working programming language is mainly Java.
-A small experience in Ruby, JavaScript, NodeJS, C, C++.
+Current working programming language is mainly Java with OSGi framework.
+A handful of experience also in Ruby, JavaScript, NodeJS, C, C++.
 Competitive Programmer.
 Good knowledge of Data Structures and Algorithms.
 A prolific programmer with a passion of research.
@@ -20,11 +20,12 @@ A prolific programmer with a passion of research.
 			<div class="col-md-6">
 				<ul class="list-group">
 					<li class="list-group-item active"><h4 style="margin-top:10.5px; margin-bottom:10.5px"><strong>Programming</strong></h4></li>
-					<li class="list-group-item">Java (OSGi framework)</li>
+					<li class="list-group-item">Java (OSGi, Spring, Hibernate)</li>
 					<li class="list-group-item">Ruby</li>
 					<li class="list-group-item">JavaScript</li>
+					<li class="list-group-item">NodeJS</li>
 					<li class="list-group-item">HTML & CSS</li>
-					<li class="list-group-item">C++</li>
+					<li class="list-group-item">C/C++</li>
 					<li class="list-group-item">MySQL</li>
 				</ul>
 			</div>
@@ -35,8 +36,8 @@ A prolific programmer with a passion of research.
 					<li class="list-group-item">Version Control (Git / SVN)</li>
 					<li class="list-group-item">Jenkins CI</li>
 					<li class="list-group-item">Logstash, Elastic Search</li>
-					<li class="list-group-item">Web UI and App testing (Selenium, Appium)</li>
-					<li class="list-group-item">FitNesse testing</li>
+					<li class="list-group-item">Web UI and App testing (Selenium, Xebium, Appium)</li>
+					<li class="list-group-item">Fit and FitNesse testing</li>
 					<li class="list-group-item">Apache Tomcat, Felix</li>
 				</ul>
 			</div>
