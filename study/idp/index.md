@@ -8,9 +8,9 @@ description: IDP during Master's at the Chair of Media Technology, Technical Uni
 
 **At:** [Chair of Media Technology at Technische Universität München (TUM)](http://www.lmt.ei.tum.de/){:target="_blank"}
 
-**Supervisor:** [Prof. Dr.-Ing. Eckehard Steinbach](http://www.lmt.ei.tum.de/en/team/team/eckehard-steinbach.html){:target="_blank"}
+**Supervisor:** [Prof. Dr.-Ing. Eckehard Steinbach](https://www.ei.tum.de/en/lmt/team/staff/steinbach-eckehard/){:target="_blank"}
 
-**Advisor:** [Rahul Chaudhari](http://www.lmt.ei.tum.de/en/team/alumni/rahul-chaudhari.html){:target="_blank"}
+**Advisor:** [Dr.-Ing. Rahul Chaudhari](https://www.ei.tum.de/en/lmt/team/staff/chaudhari-rahul/){:target="_blank"}
 
 **Background:**
 

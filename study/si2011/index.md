@@ -6,7 +6,7 @@ description: Summer Internship duing Bachelors
 
 ### Anonymization of Network Trace Data for the Homework Project
 
-**Supervisor:** [Prof. Joe Sventek](https://www.cs.uoregon.edu/People/Faculty/Joe_Sventek.php){:target="_blank"}
+**Supervisor:** [Prof. Joe Sventek](https://cs.uoregon.edu/profile/jsventek){:target="_blank"}
 
 **Advisor:** [Mr. Alexandros Koliousis](http://www.doc.ic.ac.uk/~akolious/){:target="_blank"}
 
