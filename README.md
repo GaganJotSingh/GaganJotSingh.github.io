@@ -5,7 +5,9 @@
 This will update the gems required by your site using the files Gemfile and Gemfile.lock
 * Host site locally by running the file "serve.bat" in cmd as: ´serve.bat´ OR ´.\serve.bat´
   - Use Windows CMD or PowerShell for running this, as Git shell doesn't run this correctly.
-
+* Last checked 02-May-2021:
+ - Running fine using the Ruby version: ruby 2.7.3p183 (2021-04-05 revision 6847ee089d) [x64-mingw32]
+ 
 # Build and run on Linux
 * Get started here: https://jekyllrb.com/docs/quickstart/
 * Clone the repo in local system
